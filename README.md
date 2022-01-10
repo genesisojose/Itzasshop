@@ -14,7 +14,7 @@ E-commerce de indumentaria femenina : ITZASSHOP
    Registro para nuevos clientes
    Login para finalizar la comprar
    Catalogo
-   Redes sociles:instgarm
+   Redes sociales:instgarm
    Comentarios
    Promociones 
    Descripcion de la prenda: Caracteristica: talle, color tela, stcok 
@@ -53,9 +53,10 @@ soy enfermera y me gusta leer.
 
 Elly Adan.
 28 años.
-Buenos Aires (dónde vivo).
-Vendedora en una tienda Dietética.
-Migrante venezolana viviendo en Argentina y vegetariana.
+Buenos Aires.
+Psicóloga.
+Me gusta pasar tiempo con mi familia y amistades. 
+Soy curiosa en el ámbito de la tecnología.
 
 
 
