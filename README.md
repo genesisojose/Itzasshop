@@ -2,25 +2,27 @@
 
 E-commerce de indumentaria femenina : ITZASSHOP 
 
-  Ventas de ropa de mujer, ropa casual  y juvenil temporada de verano,
-  Publico objetivo: Mujeres de talle s-m-l-xl entre 22 hasta 40 años
-  Esta pagina contara con los siguientes items:
+  Ventas de ropa de mujer, ropa casual  y juvenil temporada de verano.
+  
+  Público objetivo: Mujeres de talle s-m-l-xl entre 22 y 40 años.
+  
+  Esta página contará con los siguientes items:
 
-   Politicas de devoluciones
-   Como comprar
-   Contacto y ubicacion
-   Suscripcion para recibir novedades 
-   Carrito de compra
-   Registro para nuevos clientes
-   Login para finalizar la comprar
-   Catalogo
-   Redes sociales:instgarm
-   Comentarios
-   Promociones 
-   Descripcion de la prenda: Caracteristica: talle, color tela, stcok 
+   Política de devoluciones.
+   ¿Cómo comprar?
+   Contacto y ubicación.
+   Suscripción para recibir novedades .
+   Carrito de compra.
+   Registro para nuevos clientes.
+   Login para finalizar la compra.
+   Catálogo.
+   Redes sociales: Instagram.
+   Comentarios.
+   Promociones .
+   Descripción de la prenda: Característica: talle, color tela, stock.
    
 
-Paginas de referencia:
+Páginas de referencia:
 
 https://www.chavelastore.com.ar/
 https://lonely.mitiendanube.com/
