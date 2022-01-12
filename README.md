@@ -43,7 +43,7 @@ Actualmente me encuentro estudiando y trabajando como Analista Qa, me gusta esta
 Leonardo Maldonado
 27 años
 Medellin, Colombia.
-Reservations Representativa
+Reservations Representative
 Amante del desarrollo tecnológico y fan de los videojuegos.
 
 
