@@ -50,7 +50,8 @@ Amante del desarrollo tecnológico y fan de los videojuegos.
 Candela Nuñez Caminos
 26 años
 Córdoba Capital
-soy enfermera y me gusta leer.
+Enfermera
+Me gusta leer y aprender cosas nuevas.
 
 
 Elly Adan.
